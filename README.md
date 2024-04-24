@@ -1,5 +1,5 @@
 ### Welcome! 
- 💮 I am Luciano Giraldi;<br>
+ 😁 I am Luciano Giraldi;<br>
  🏠 Currently living in Maringá;<br>
  🎓 Software Engineering's student at UniCesumar;<br>
  🖥 Development and Integration of Systems at SENAI;<br>
