@@ -1,6 +1,12 @@
+### Welcome! 
+ 💮 I am Luciano Giraldi;<br>
+ 🏠 Currently living in Maringá;<br>
+ 🎓 Software Engineering's student at UniCesumar;<br>
+ 🖥 Development and Integration of Systems at SENAI;<br>
+ 🌎 I can speak Portuguese and English;<br>
+
 <div>
    <a href="https://github.com/LucianoGiraldi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoGiraldi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGiraldi&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
